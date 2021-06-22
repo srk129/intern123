@@ -13,7 +13,7 @@ if(isset($_POST['submit'])){
   $int_tit = $_POST['intt'];
   //$subject = $_POST['subject'];
   $message = $_POST['body'];
-  $from = "vaibhavikundle20@gmail.com";
+  $from = "shopex247@gmail.com";
   $headers = "From: $from";
 
   include("config.php");
@@ -32,8 +32,8 @@ try{
   $mail->isSMTP();
   $mail->Host = "smtp.gmail.com";
   $mail->SMTPAuth = true;
-  $mail->Username = "vaibhavikundle20@gmail.com";
-  $mail->Password = "Exosuho2205";
+  $mail->Username = "shopex247@gmailcom";
+  $mail->Password = "localshoppe247";
   $mail->Port = 465;
   $mail->SMTPSecure = "ssl";
 
