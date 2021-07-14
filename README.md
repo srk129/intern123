@@ -6,5 +6,4 @@ Intern123 is a platform which will provide students all the information of the i
 opportunities available in the campus and at the same time will provide eligible interns to the
 professors of all colleges or campus companies. Students would be able to register and try
 participating in different internships.Professors and internship givers would be able to register and
-give opportunities to deserving students to work with them. Students will be able to track their
-internship credits which are given according to the number of internship hours completed.
+give opportunities to deserving students to work with them.
