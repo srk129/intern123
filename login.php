@@ -69,9 +69,9 @@ if($_SERVER['REQUEST_METHOD']== 'POST'){
                 $_SESSION["loggedin"]= true; 
                 //redirect
                 if($user_type == "student"){
-                  header("Location:../miniproj-master/student/studentdashboard.php?username=".$username);
+                  header("Location:../student/studentdashboard.php?username=".$username);
                 }else{
-                  header("Location:../miniproj-master/teacher/teacherdashboard.php?username=".$username);
+                  header("Location:../teacher/teacherdashboard.php?username=".$username);
                 }
                 
               }
