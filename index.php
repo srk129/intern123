@@ -39,11 +39,11 @@ session_start();
 
       <div class="row justify-content-center">
         <div class="col-xl-9 d-flex align-items-center justify-content-between">
-          <h1 class="logo"><a href="index.html">INTERN 123</a></h1>
+          <h1 class="logo"><a href="index.php">INTERN 123</a></h1>
 
           <nav class="nav-menu d-none d-lg-block">
             <ul>
-              <li class="active"><a href="index.html">Home</a></li>
+              <li class="active"><a href="index.php">Home</a></li>
               <li><a href="#about">About</a></li>
               <li><a href="#benefits">Benefits</a></li>
               <li class="drop-down"><a href="#">Student</a>
