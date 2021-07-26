@@ -177,7 +177,7 @@
             if(mysqli_query($conn,$sql) and mysqli_query($conn,$sql_2)){
               echo "Data inserted";
               #header('Location: index.php?username='.$username);
-              header("Location:../miniproj-master/student/studentdashboard.php?fname=".$fname."&lname=".$lname."&username=".$user);
+              header("Location:../student/studentdashboard.php?fname=".$fname."&lname=".$lname."&username=".$user);
             }  
             else{
                 echo "INVALID QUERY! Error in sign in";
