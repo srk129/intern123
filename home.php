@@ -11,10 +11,12 @@ session_start();
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta charset="UTF-8">
+  <meta name="description" content="Get dream internship Offer of your choice." >
 
-  <title>INTERN123</title>
+  <meta name="keywords" content="internship Offer ,student internship,summer internship,best internship" >
+
+  <title>Internship Portal:INTERN123</title>
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -39,7 +41,7 @@ session_start();
 
       <div class="row justify-content-center">
         <div class="col-xl-9 d-flex align-items-center justify-content-between">
-          <h1 class="logo"><a href="index.html">INTERN 123</a></h1>
+          <h1 class="logo"><a href="index.html">Explore Internship : INTERN 123</a></h1>
 
           <nav class="nav-menu d-none d-lg-block">
             <ul>
@@ -211,7 +213,7 @@ session_start();
               <p>More options and one to one interaction</p>
             </div>
           </div>
-          <div class="image col-lg-6 order-1 order-lg-2" style='background-image: url("assets/img/bg1.jpg");'></div>
+          <div class="image col-lg-6 order-1 order-lg-2" style='background-image: url("assets/img/bg1.jpg");' alt='internship image'></div>
         </div>
 
       </div>
